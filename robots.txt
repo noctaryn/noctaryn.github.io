@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://noctaryn.github.io/sitemap.xml
